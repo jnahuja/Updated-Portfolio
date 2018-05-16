@@ -1,0 +1,14 @@
+#nameHeader {
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+    padding: 0 0 30px 0;
+}
+
+#myStory {
+    padding: 0 30px 0 0;
+}
+
+.subHeader {
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+}
